@@ -36,10 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-/* .trainGrids {
-  border: 5px red;
-  grid-template-columns: 1fr 1fr 1fr;
-  display: grid;
-  margin: 10%;
-} */
